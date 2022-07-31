@@ -1,0 +1,12 @@
+
+.home-card {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    background: beige;
+    width: 300px;
+    height: 300px;
+    border-radius: 18px;
+    color: black;
+}

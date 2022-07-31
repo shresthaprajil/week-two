@@ -1,0 +1,17 @@
+
+.styled-input {
+
+}
+
+.styled-button {
+    background: aqua;
+    color: white;
+    height: 40px;
+    width: 100px;
+    outline: none;
+    border: 0;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 18px;
+    margin-top: 10px;
+}
